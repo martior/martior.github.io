@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/martior/martior.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Verktøy der nesten alle har hjemmekontor.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dette er alle verktøy som du raskt kan komme i gang med uten å installere software.
 
-```markdown
-Syntax highlighted code block
+Mange av dere har allerede verktøy igjennom programvare pakken for epost og office programmer.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Min arbeidsgiver har office 360 i dag.
 
-1. Numbered
-2. List
+Da har du gruppe chat, fildeling og både eksterne og interne video og lyd møter, samt mulighet til å ha nettmøter med mange tusen deltakere tilgjengelig i Microsoft teams.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Min arebidsgiver har Google gsuite
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Da har du tilgang til meet.google.com https://meet.google.com/_meet for eksterne møter og google hangouts https://hangouts.google.com/webchat/start for gruppechat og interne videomøter
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martior/martior.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Min bedrift har ingen av delene.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Slack https://slack.com/  – Gruppechat:  (gratis versjon)
+
+Zoom https://zoom.us/  – Digitale videomøter og chat. (Gratis for 1-1 møter)
+
+
+Husk. Jobber du med sensitive data, ikke del disse på måter som ikke er godkjent av arbeidsgiver.
+
+
+Unesco har også lagd en god oversikt over tilgjengelige digitale verktøy for læring. Mange av disse kan også fint brukes i jobb eller organisasjoner.
+https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions
